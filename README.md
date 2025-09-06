@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
- 
+ [EXP 1.2 YOGASRI.pdf](https://github.com/user-attachments/files/22184751/EXP.1.2.YOGASRI.pdf)
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
